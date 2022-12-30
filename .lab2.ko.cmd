@@ -1,0 +1,1 @@
+cmd_/home/parallels/Desktop/lab2/lab2.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/parallels/Desktop/lab2/lab2.ko /home/parallels/Desktop/lab2/lab2.o /home/parallels/Desktop/lab2/lab2.mod.o;  true
